@@ -1,0 +1,16 @@
+C:\Users\ngjh9\source\repos\LiarDice\bin\Debug\netcoreapp3.1\LiarDice.exe
+C:\Users\ngjh9\source\repos\LiarDice\bin\Debug\netcoreapp3.1\LiarDice.deps.json
+C:\Users\ngjh9\source\repos\LiarDice\bin\Debug\netcoreapp3.1\LiarDice.runtimeconfig.json
+C:\Users\ngjh9\source\repos\LiarDice\bin\Debug\netcoreapp3.1\LiarDice.runtimeconfig.dev.json
+C:\Users\ngjh9\source\repos\LiarDice\bin\Debug\netcoreapp3.1\LiarDice.dll
+C:\Users\ngjh9\source\repos\LiarDice\bin\Debug\netcoreapp3.1\LiarDice.pdb
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.csproj.AssemblyReference.cache
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.Form1.resources
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.Properties.Resources.resources
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.csproj.GenerateResource.cache
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.AssemblyInfoInputs.cache
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.AssemblyInfo.cs
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.csproj.CoreCompileInputs.cache
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.dll
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.pdb
+C:\Users\ngjh9\source\repos\LiarDice\obj\Debug\netcoreapp3.1\LiarDice.genruntimeconfig.cache
